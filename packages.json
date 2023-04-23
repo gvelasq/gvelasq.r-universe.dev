@@ -1,5 +1,9 @@
 [
     {
+        "package": "palettizer",
+        "url": "https://github.com/gvelasq/palettizer"
+    },
+    {
         "package": "tidytab",
         "url": "https://github.com/gvelasq/tidytab"
     }
