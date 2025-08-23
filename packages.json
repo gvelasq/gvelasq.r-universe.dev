@@ -1,5 +1,9 @@
 [
     {
+        "package": "mutagen",
+        "url": "https://github.com/gvelasq/mutagen"
+    },
+    {
         "package": "palettizer",
         "url": "https://github.com/gvelasq/palettizer"
     },
